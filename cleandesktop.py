@@ -30,3 +30,11 @@ event_handler = Myhandler()
 observer = Observer()
 observer.schedule(event_handler, folder_to_track, recursive=True)
 observer.start()
+
+try:
+    while True:
+        time.sleep(10)
+    
+except KeyboardInterrupt:
+    Observer.stop()
+Observer.join()
