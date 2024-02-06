@@ -5,10 +5,6 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.ytimg.com/vi/vCndihWrZoY/maxresdefault.jpg" alt="project-screenshot" width="720" height="400/">
-
-<h2>🛠️ Installation Steps:</h2>
-
-  
   
 <h2>💻 Built with</h2>
 
